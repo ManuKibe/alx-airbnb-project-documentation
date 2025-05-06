@@ -1,0 +1,1 @@
+The document presents fundamental user stories which originated from the Airbnb Clone project's use case diagram. Core features for end-users known as stories drive developers to establish backend functions for user signing up and logging in combined with management of properties along with booking structures and payment operations.
